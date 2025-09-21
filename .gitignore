@@ -1,0 +1,15 @@
+*.exe
+*.dmg
+
+**.exe
+**.dmg
+
+*/*.exe
+*/*.dmg
+
+*/**.exe
+*/**.dmg
+
+*.history
+*/.history
+**/.history
