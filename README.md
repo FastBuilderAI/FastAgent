@@ -1,7 +1,3 @@
-Here’s a clean **README.md** draft to introduce your public release binaries. It explains what FastAgent is, what the binaries do, and how to install/use them across platforms.
-
----
-
 # FastAgent by FastBuilder.AI
 
 FastAgent is a cross-platform desktop agent that connects to **FastBuilder.AI** and helps automate tasks on your computer. It integrates directly with your operating system, listens for objectives, and executes them by controlling applications, browsing, and handling workflows with the help of AI models.
@@ -96,6 +92,3 @@ You can download binaries for your platform:
 * Email: [help@fastbuilder.ai](mailto:help@fastbuilder.ai)
 * Community: Join us on [X/Twitter](https://x.com)
 
----
-
-Would you like me to also generate a **short "Quick Start" version** of this README (1–2 pages, end-user friendly), or keep this as a **developer-oriented README** with all technical details?
